@@ -5,6 +5,7 @@
       
 
         #region SalaryCalculation
+
         float vf_monthlySalary = 8500f;
         int year = 1;
         Console.WriteLine("Baslangic maaşını : {0} PNG Kina`dir...",String.Format("{0:###,###}",vf_monthlySalary));
