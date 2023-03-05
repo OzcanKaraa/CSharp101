@@ -3,13 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>_02_VariableWorld</RootNamespace>
+    <RootNamespace>_08_Methods</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Csharp\01_ConsoleSample.csproj" />
-  </ItemGroup>
 
 </Project>

@@ -10,11 +10,11 @@ internal class Program
         //string Name;
         //string NameDesc;
 
-        //name = "Ümit Karaçivi....."; // Değişgene değer Atama işlemi
+        //name = "Ozcan Kara....."; // Değişgene değer Atama işlemi
         //nameDesc = "Benim adım : ";
-        //NameDesc = "Kızımın adı : ";
+        //NameDesc = "Annemin Adi : ";
 
-        //Name = "Doğa Bengi Karaçivi";
+        //Name = "Emine Kara";
 
 
         //Console.WriteLine(nameDesc + name);
