@@ -10,7 +10,7 @@ namespace CS101_01_ConsoleSample
     {
         private static void Main(string[] args)
         {
-            string message = "Merhaba dünya, nasılsın ?";
+            string message = "Merhaba dünya, nasılsınkk ?";
 
             Console.WriteLine(message);
 
