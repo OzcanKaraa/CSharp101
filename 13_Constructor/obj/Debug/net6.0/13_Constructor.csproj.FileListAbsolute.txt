@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\13_Constructor\bin\Debug\net6.0\13_Constructor.exe
+C:\Visual Studio 2022\CS101\13_Constructor\bin\Debug\net6.0\13_Constructor.deps.json
+C:\Visual Studio 2022\CS101\13_Constructor\bin\Debug\net6.0\13_Constructor.runtimeconfig.json
+C:\Visual Studio 2022\CS101\13_Constructor\bin\Debug\net6.0\13_Constructor.dll
+C:\Visual Studio 2022\CS101\13_Constructor\bin\Debug\net6.0\13_Constructor.pdb
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.dll
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\refint\13_Constructor.dll
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.pdb
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\13_Constructor.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\13_Constructor\obj\Debug\net6.0\ref\13_Constructor.dll

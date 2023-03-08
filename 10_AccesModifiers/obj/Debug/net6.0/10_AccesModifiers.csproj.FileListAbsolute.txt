@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\10_AccesModifiers\bin\Debug\net6.0\10_AccesModifiers.exe
+C:\Visual Studio 2022\CS101\10_AccesModifiers\bin\Debug\net6.0\10_AccesModifiers.deps.json
+C:\Visual Studio 2022\CS101\10_AccesModifiers\bin\Debug\net6.0\10_AccesModifiers.runtimeconfig.json
+C:\Visual Studio 2022\CS101\10_AccesModifiers\bin\Debug\net6.0\10_AccesModifiers.dll
+C:\Visual Studio 2022\CS101\10_AccesModifiers\bin\Debug\net6.0\10_AccesModifiers.pdb
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.dll
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\refint\10_AccesModifiers.dll
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.pdb
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\10_AccesModifiers.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\10_AccesModifiers\obj\Debug\net6.0\ref\10_AccesModifiers.dll

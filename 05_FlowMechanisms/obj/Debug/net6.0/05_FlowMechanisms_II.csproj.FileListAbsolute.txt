@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\bin\Debug\net6.0\05_FlowMechanisms_II.exe
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\bin\Debug\net6.0\05_FlowMechanisms_II.deps.json
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\bin\Debug\net6.0\05_FlowMechanisms_II.runtimeconfig.json
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\bin\Debug\net6.0\05_FlowMechanisms_II.dll
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\bin\Debug\net6.0\05_FlowMechanisms_II.pdb
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.dll
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\refint\05_FlowMechanisms_II.dll
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.pdb
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\05_FlowMechanisms_II.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\005_FlowMechanisms\obj\Debug\net6.0\ref\05_FlowMechanisms_II.dll

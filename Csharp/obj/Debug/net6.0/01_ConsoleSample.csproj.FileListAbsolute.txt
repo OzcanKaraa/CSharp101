@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\Csharp\bin\Debug\net6.0\01_ConsoleSample.exe
+C:\Visual Studio 2022\CS101\Csharp\bin\Debug\net6.0\01_ConsoleSample.deps.json
+C:\Visual Studio 2022\CS101\Csharp\bin\Debug\net6.0\01_ConsoleSample.runtimeconfig.json
+C:\Visual Studio 2022\CS101\Csharp\bin\Debug\net6.0\01_ConsoleSample.dll
+C:\Visual Studio 2022\CS101\Csharp\bin\Debug\net6.0\01_ConsoleSample.pdb
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.dll
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\refint\01_ConsoleSample.dll
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.pdb
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\01_ConsoleSample.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\Csharp\obj\Debug\net6.0\ref\01_ConsoleSample.dll

@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\07_ErrorControls\bin\Debug\net6.0\07_ErrorControls.exe
+C:\Visual Studio 2022\CS101\07_ErrorControls\bin\Debug\net6.0\07_ErrorControls.deps.json
+C:\Visual Studio 2022\CS101\07_ErrorControls\bin\Debug\net6.0\07_ErrorControls.runtimeconfig.json
+C:\Visual Studio 2022\CS101\07_ErrorControls\bin\Debug\net6.0\07_ErrorControls.dll
+C:\Visual Studio 2022\CS101\07_ErrorControls\bin\Debug\net6.0\07_ErrorControls.pdb
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.dll
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\refint\07_ErrorControls.dll
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.pdb
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\07_ErrorControls.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\07_ErrorControls\obj\Debug\net6.0\ref\07_ErrorControls.dll

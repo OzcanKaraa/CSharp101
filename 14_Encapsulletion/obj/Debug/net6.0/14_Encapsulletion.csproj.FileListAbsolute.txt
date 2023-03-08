@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\14_Encapsulletion\bin\Debug\net6.0\14_Encapsulletion.exe
+C:\Visual Studio 2022\CS101\14_Encapsulletion\bin\Debug\net6.0\14_Encapsulletion.deps.json
+C:\Visual Studio 2022\CS101\14_Encapsulletion\bin\Debug\net6.0\14_Encapsulletion.runtimeconfig.json
+C:\Visual Studio 2022\CS101\14_Encapsulletion\bin\Debug\net6.0\14_Encapsulletion.dll
+C:\Visual Studio 2022\CS101\14_Encapsulletion\bin\Debug\net6.0\14_Encapsulletion.pdb
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.dll
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\refint\14_Encapsulletion.dll
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.pdb
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\14_Encapsulletion.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\14_Encapsulletion\obj\Debug\net6.0\ref\14_Encapsulletion.dll

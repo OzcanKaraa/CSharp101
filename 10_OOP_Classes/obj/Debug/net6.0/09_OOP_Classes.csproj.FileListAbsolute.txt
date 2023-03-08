@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\10_OOP_Classes\bin\Debug\net6.0\09_OOP_Classes.exe
+C:\Visual Studio 2022\CS101\10_OOP_Classes\bin\Debug\net6.0\09_OOP_Classes.deps.json
+C:\Visual Studio 2022\CS101\10_OOP_Classes\bin\Debug\net6.0\09_OOP_Classes.runtimeconfig.json
+C:\Visual Studio 2022\CS101\10_OOP_Classes\bin\Debug\net6.0\09_OOP_Classes.dll
+C:\Visual Studio 2022\CS101\10_OOP_Classes\bin\Debug\net6.0\09_OOP_Classes.pdb
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.dll
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\refint\09_OOP_Classes.dll
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.pdb
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\09_OOP_Classes.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\10_OOP_Classes\obj\Debug\net6.0\ref\09_OOP_Classes.dll

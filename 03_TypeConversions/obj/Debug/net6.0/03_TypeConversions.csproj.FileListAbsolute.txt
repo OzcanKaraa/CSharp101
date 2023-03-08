@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\03_TypeConversions\bin\Debug\net6.0\03_TypeConversions.exe
+C:\Visual Studio 2022\CS101\03_TypeConversions\bin\Debug\net6.0\03_TypeConversions.deps.json
+C:\Visual Studio 2022\CS101\03_TypeConversions\bin\Debug\net6.0\03_TypeConversions.runtimeconfig.json
+C:\Visual Studio 2022\CS101\03_TypeConversions\bin\Debug\net6.0\03_TypeConversions.dll
+C:\Visual Studio 2022\CS101\03_TypeConversions\bin\Debug\net6.0\03_TypeConversions.pdb
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.dll
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\refint\03_TypeConversions.dll
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.pdb
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\03_TypeConversions.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\03_TypeConversions\obj\Debug\net6.0\ref\03_TypeConversions.dll

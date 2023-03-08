@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\12_Polymorfizm\bin\Debug\net6.0\12_Polymorfism.exe
+C:\Visual Studio 2022\CS101\12_Polymorfizm\bin\Debug\net6.0\12_Polymorfism.deps.json
+C:\Visual Studio 2022\CS101\12_Polymorfizm\bin\Debug\net6.0\12_Polymorfism.runtimeconfig.json
+C:\Visual Studio 2022\CS101\12_Polymorfizm\bin\Debug\net6.0\12_Polymorfism.dll
+C:\Visual Studio 2022\CS101\12_Polymorfizm\bin\Debug\net6.0\12_Polymorfism.pdb
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.dll
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\refint\12_Polymorfism.dll
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.pdb
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\12_Polymorfism.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\12_Polymorfizm\obj\Debug\net6.0\ref\12_Polymorfism.dll

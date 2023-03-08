@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\06_Arrays\bin\Debug\net6.0\06_Arrays.exe
+C:\Visual Studio 2022\CS101\06_Arrays\bin\Debug\net6.0\06_Arrays.deps.json
+C:\Visual Studio 2022\CS101\06_Arrays\bin\Debug\net6.0\06_Arrays.runtimeconfig.json
+C:\Visual Studio 2022\CS101\06_Arrays\bin\Debug\net6.0\06_Arrays.dll
+C:\Visual Studio 2022\CS101\06_Arrays\bin\Debug\net6.0\06_Arrays.pdb
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.dll
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\refint\06_Arrays.dll
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.pdb
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\06_Arrays.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\06_Arrays\obj\Debug\net6.0\ref\06_Arrays.dll

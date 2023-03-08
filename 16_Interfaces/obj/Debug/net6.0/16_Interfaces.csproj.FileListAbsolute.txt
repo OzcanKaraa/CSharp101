@@ -1,0 +1,15 @@
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\bin\Debug\net6.0\16_Interfaces.exe
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\bin\Debug\net6.0\16_Interfaces.deps.json
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\bin\Debug\net6.0\16_Interfaces.runtimeconfig.json
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\bin\Debug\net6.0\16_Interfaces.dll
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\bin\Debug\net6.0\16_Interfaces.pdb
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.AssemblyInfo.cs
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.dll
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\refint\16_Interfaces.dll
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.pdb
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\16_Interfaces.genruntimeconfig.cache
+C:\Users\Özcan Kara\Desktop\CS101\16_Interfaces\obj\Debug\net6.0\ref\16_Interfaces.dll

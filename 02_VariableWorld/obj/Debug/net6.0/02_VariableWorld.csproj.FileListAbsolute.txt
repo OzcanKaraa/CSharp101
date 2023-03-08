@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\02_VariableWorld\bin\Debug\net6.0\02_VariableWorld.exe
+C:\Visual Studio 2022\CS101\02_VariableWorld\bin\Debug\net6.0\02_VariableWorld.deps.json
+C:\Visual Studio 2022\CS101\02_VariableWorld\bin\Debug\net6.0\02_VariableWorld.runtimeconfig.json
+C:\Visual Studio 2022\CS101\02_VariableWorld\bin\Debug\net6.0\02_VariableWorld.dll
+C:\Visual Studio 2022\CS101\02_VariableWorld\bin\Debug\net6.0\02_VariableWorld.pdb
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.dll
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\refint\02_VariableWorld.dll
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.pdb
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\02_VariableWorld.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\02_VariableWorld\obj\Debug\net6.0\ref\02_VariableWorld.dll

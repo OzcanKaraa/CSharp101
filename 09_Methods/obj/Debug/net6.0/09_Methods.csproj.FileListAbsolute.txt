@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\09_Methods\bin\Debug\net6.0\09_Methods.exe
+C:\Visual Studio 2022\CS101\09_Methods\bin\Debug\net6.0\09_Methods.deps.json
+C:\Visual Studio 2022\CS101\09_Methods\bin\Debug\net6.0\09_Methods.runtimeconfig.json
+C:\Visual Studio 2022\CS101\09_Methods\bin\Debug\net6.0\09_Methods.dll
+C:\Visual Studio 2022\CS101\09_Methods\bin\Debug\net6.0\09_Methods.pdb
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.dll
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\refint\09_Methods.dll
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.pdb
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\09_Methods.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\09_Methods\obj\Debug\net6.0\ref\09_Methods.dll

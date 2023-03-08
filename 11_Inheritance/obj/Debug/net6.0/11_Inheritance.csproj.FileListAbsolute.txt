@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\11_Inheritance\bin\Debug\net6.0\11_Inheritance.exe
+C:\Visual Studio 2022\CS101\11_Inheritance\bin\Debug\net6.0\11_Inheritance.deps.json
+C:\Visual Studio 2022\CS101\11_Inheritance\bin\Debug\net6.0\11_Inheritance.runtimeconfig.json
+C:\Visual Studio 2022\CS101\11_Inheritance\bin\Debug\net6.0\11_Inheritance.dll
+C:\Visual Studio 2022\CS101\11_Inheritance\bin\Debug\net6.0\11_Inheritance.pdb
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.dll
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\refint\11_Inheritance.dll
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.pdb
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\11_Inheritance.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\11_Inheritance\obj\Debug\net6.0\ref\11_Inheritance.dll

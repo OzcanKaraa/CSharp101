@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\04_Operators\bin\Debug\net6.0\04_Operators.exe
+C:\Visual Studio 2022\CS101\04_Operators\bin\Debug\net6.0\04_Operators.deps.json
+C:\Visual Studio 2022\CS101\04_Operators\bin\Debug\net6.0\04_Operators.runtimeconfig.json
+C:\Visual Studio 2022\CS101\04_Operators\bin\Debug\net6.0\04_Operators.dll
+C:\Visual Studio 2022\CS101\04_Operators\bin\Debug\net6.0\04_Operators.pdb
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.dll
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\refint\04_Operators.dll
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.pdb
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\04_Operators.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\04_Operators\obj\Debug\net6.0\ref\04_Operators.dll

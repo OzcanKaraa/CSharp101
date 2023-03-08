@@ -1,0 +1,15 @@
+C:\Visual Studio 2022\CS101\Login_Ekrani\bin\Debug\net6.0\Login_Ekrani.exe
+C:\Visual Studio 2022\CS101\Login_Ekrani\bin\Debug\net6.0\Login_Ekrani.deps.json
+C:\Visual Studio 2022\CS101\Login_Ekrani\bin\Debug\net6.0\Login_Ekrani.runtimeconfig.json
+C:\Visual Studio 2022\CS101\Login_Ekrani\bin\Debug\net6.0\Login_Ekrani.dll
+C:\Visual Studio 2022\CS101\Login_Ekrani\bin\Debug\net6.0\Login_Ekrani.pdb
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.AssemblyInfo.cs
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.dll
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\refint\Login_Ekrani.dll
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.pdb
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\Login_Ekrani.genruntimeconfig.cache
+C:\Visual Studio 2022\CS101\Login_Ekrani\obj\Debug\net6.0\ref\Login_Ekrani.dll
