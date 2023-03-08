@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9q/p2uQR+/7KbWy2AIlgvcDKJbji+6JOikUx0cM8nYjMndNeUh2cpN9hXHkkOsa1rRu6HA45ApyUoM6pcd52w==",
+  "dgSpecHash": "bQehiMibyWpjCnA8AT67E/F387rhbmc5JvjsXKnPT9+1EP1k10SNKDpiAHweWDn2kHGEmBkJD+lDKwrFKfdhtA==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\11_Inheritance.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\11_Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

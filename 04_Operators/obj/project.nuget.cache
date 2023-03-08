@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybOl+DRU9YXrlboyvCLIjxJ5rcUo+61y3HsBXR1TOIa76j3z/SfSsz4RzYrIDMOSWQrbPu5hurrijUabgKqotA==",
+  "dgSpecHash": "m4WotK27FaAjryANCUvwQSUNPXE413Yo70hgGZ861qo92NFk1kwCIrMYQbfUb2pjmaVE6CxEYt+roO9gsVVkGw==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\04_Operators\\04_Operators.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\04_Operators\\04_Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

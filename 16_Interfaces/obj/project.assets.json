@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\16_Interfaces\\16_Interfaces.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\16_Interfaces\\16_Interfaces.csproj",
       "projectName": "16_Interfaces",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\16_Interfaces\\16_Interfaces.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\16_Interfaces\\16_Interfaces.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\16_Interfaces\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\16_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

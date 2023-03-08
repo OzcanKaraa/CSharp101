@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\Weekend_Workout_01\\Weekend_Workout_1.csproj",
+      "projectUniqueName": "C:\\Repo\\CS101\\Weekend_Workout_01\\Weekend_Workout_1.csproj",
       "projectName": "Weekend_Workout_1",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\Weekend_Workout_01\\Weekend_Workout_1.csproj",
+      "projectPath": "C:\\Repo\\CS101\\Weekend_Workout_01\\Weekend_Workout_1.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\Weekend_Workout_01\\obj\\",
+      "outputPath": "C:\\Repo\\CS101\\Weekend_Workout_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

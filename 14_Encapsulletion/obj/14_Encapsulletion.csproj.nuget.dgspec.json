@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj",
         "projectName": "14_Encapsulletion",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\14_Encapsulletion\\14_Encapsulletion.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\14_Encapsulletion\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\14_Encapsulletion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

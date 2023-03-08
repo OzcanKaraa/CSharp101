@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 01_ConsoleSample
-build_property.ProjectDir = C:\Visual Studio 2022\CS101\Csharp\
+build_property.ProjectDir = C:\Visual Studio 2022\CS101\CS101\Csharp\

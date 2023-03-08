@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\02_VariableWorld\\02_VariableWorld.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\02_VariableWorld\\02_VariableWorld.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\02_VariableWorld\\02_VariableWorld.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\02_VariableWorld\\02_VariableWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\02_VariableWorld\\02_VariableWorld.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\02_VariableWorld\\02_VariableWorld.csproj",
         "projectName": "02_VariableWorld",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\02_VariableWorld\\02_VariableWorld.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\02_VariableWorld\\02_VariableWorld.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\02_VariableWorld\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\02_VariableWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj": {
-                "projectPath": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj"
+              "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj": {
+                "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj",
         "projectName": "01_ConsoleSample",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\Csharp\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

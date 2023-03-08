@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTZ7aBx7NuMadKdQ/BEwXSpvu6wuyl22pj36sp/6crB+X2AbFq9EfSXb2DHSIlMzQpCGjicumD7ZSYUdIFsR9A==",
+  "dgSpecHash": "VMDQZZ4Jxm6xm7OEqcV86Xmm88UMzzjX2RAMzRAixt+DmyUYJcHai5MyKDsQUhAzJQzvuMngO/E+X9SU/RnvJQ==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

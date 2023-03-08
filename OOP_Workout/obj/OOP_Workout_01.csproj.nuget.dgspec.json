@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\OOP_Workout\\OOP_Workout_01.csproj": {}
+    "C:\\Repo\\CS101\\OOP_Workout\\OOP_Workout_01.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\OOP_Workout\\OOP_Workout_01.csproj": {
+    "C:\\Repo\\CS101\\OOP_Workout\\OOP_Workout_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\OOP_Workout\\OOP_Workout_01.csproj",
+        "projectUniqueName": "C:\\Repo\\CS101\\OOP_Workout\\OOP_Workout_01.csproj",
         "projectName": "OOP_Workout_01",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\OOP_Workout\\OOP_Workout_01.csproj",
+        "projectPath": "C:\\Repo\\CS101\\OOP_Workout\\OOP_Workout_01.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\OOP_Workout\\obj\\",
+        "outputPath": "C:\\Repo\\CS101\\OOP_Workout\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

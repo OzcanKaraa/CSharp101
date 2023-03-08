@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\04_Operators\\04_Operators.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\04_Operators\\04_Operators.csproj",
       "projectName": "04_Operators",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\04_Operators\\04_Operators.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\04_Operators\\04_Operators.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\04_Operators\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\04_Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

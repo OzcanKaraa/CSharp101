@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\10_OOP_Classes\\09_OOP_Classes.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\10_OOP_Classes\\09_OOP_Classes.csproj",
       "projectName": "09_OOP_Classes",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\10_OOP_Classes\\09_OOP_Classes.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\10_OOP_Classes\\09_OOP_Classes.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\10_OOP_Classes\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\10_OOP_Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

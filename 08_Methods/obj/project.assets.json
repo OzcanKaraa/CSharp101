@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\08_Methods\\08_Methods.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\08_Methods\\08_Methods.csproj",
       "projectName": "08_Methods",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\08_Methods\\08_Methods.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\08_Methods\\08_Methods.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\08_Methods\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\08_Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

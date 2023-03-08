@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj",
         "projectName": "01_ConsoleSample",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\Csharp\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

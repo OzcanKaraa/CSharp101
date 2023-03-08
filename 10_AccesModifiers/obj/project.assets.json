@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
       "projectName": "10_AccesModifiers",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\10_AccesModifiers\\10_AccesModifiers.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\10_AccesModifiers\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\10_AccesModifiers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

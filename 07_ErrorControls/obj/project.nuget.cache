@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJiX/V0xWgBIfUskDsduVnapvT/aChKYvQvqY5QtXecx7bu6offETH0DfHfrm5ul49XeGKr4LUDp9SL2RMYzVQ==",
+  "dgSpecHash": "E3BR7YJ472nwBJUeeoPktnptS6ZVCpvp/H7AdW91kiid/9wSGmsJLWtXFHUNbp3YNB1PXmp+akP5VBR6Y/qmKA==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\07_ErrorControls\\07_ErrorControls.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\07_ErrorControls\\07_ErrorControls.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

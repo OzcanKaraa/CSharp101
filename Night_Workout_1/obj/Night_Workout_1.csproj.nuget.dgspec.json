@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\Night_Workout_1\\Night_Workout_1.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\Night_Workout_1\\Night_Workout_1.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\Night_Workout_1\\Night_Workout_1.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\Night_Workout_1\\Night_Workout_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\Night_Workout_1\\Night_Workout_1.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\Night_Workout_1\\Night_Workout_1.csproj",
         "projectName": "Night_Workout_1",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\Night_Workout_1\\Night_Workout_1.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Night_Workout_1\\Night_Workout_1.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\Night_Workout_1\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\Night_Workout_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

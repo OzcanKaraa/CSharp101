@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\11_Inheritance.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\11_Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\11_Inheritance.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\11_Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\11_Inheritance.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\11_Inheritance.csproj",
         "projectName": "11_Inheritance",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\11_Inheritance.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\11_Inheritance.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\11_Inheritance\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\11_Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

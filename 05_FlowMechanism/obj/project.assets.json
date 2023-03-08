@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\05_FlowMechanism\\05_FlowMechanism_I.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\05_FlowMechanism\\05_FlowMechanism_I.csproj",
       "projectName": "05_FlowMechanism_I",
-      "projectPath": "C:\\Visual Studio 2022\\CS101\\05_FlowMechanism\\05_FlowMechanism_I.csproj",
+      "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\05_FlowMechanism\\05_FlowMechanism_I.csproj",
       "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022\\CS101\\05_FlowMechanism\\obj\\",
+      "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\05_FlowMechanism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",

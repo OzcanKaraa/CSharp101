@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ns8z6NWTG7TuU2LA1K0iAYLKZt8cHXDuxxAmMBCoH3tZqWtSR6HIqI7w1XufhGWZIaQZeFDJJYCndBSX1/NvSw==",
+  "dgSpecHash": "KIj5prfMN1sIGHjqmtupXGHZqRxhkgS9v6QfpDgnmiMHL1gcNhrEkIkO9mupTPU493J3Qgql/AF2I2fY4eHOUA==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\Csharp\\01_ConsoleSample.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\Csharp\\01_ConsoleSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYqGal5eKFCpZJUhHOWrqifRJN6bLN4s7X3BFPAxAH4gLQU5YDr2d1uq6mhNliF4mu9KLe6NfILeNugsF/NW4A==",
+  "dgSpecHash": "VPQBG9uL6N++2TTF9a3V+RHPmvRfQ0XwmQmBFxAeznT1eSnA7sp5rUF2E211MwTxJkQaM6e838j53s78jYnAXg==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\06_Arrays\\06_Arrays.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\06_Arrays\\06_Arrays.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

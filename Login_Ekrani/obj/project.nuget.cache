@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zrtTxEyEpNmWDb7O9vplOQXARQH+zuN+M+Al71SSSmBchSvDRlgOQihBmTd5Mxvffa7rg6l2y8xe3ZG2R0sUSg==",
+  "dgSpecHash": "trWh+Vtw8lSBCzr8I0Ipk7rY8mBQ8mBG/ArGMh2aMpoUdqV0cVeCpi+oPnVG3H7Jc1W6wSIqZt2kam3zP56mew==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\Login_Ekrani\\Login_Ekrani.csproj",
+  "projectFilePath": "C:\\Visual Studio 2022\\CS101\\CS101\\Login_Ekrani\\Login_Ekrani.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

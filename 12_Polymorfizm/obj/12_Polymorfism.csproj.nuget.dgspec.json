@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio 2022\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj": {}
+    "C:\\Visual Studio 2022\\CS101\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio 2022\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj": {
+    "C:\\Visual Studio 2022\\CS101\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj",
+        "projectUniqueName": "C:\\Visual Studio 2022\\CS101\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj",
         "projectName": "12_Polymorfism",
-        "projectPath": "C:\\Visual Studio 2022\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj",
+        "projectPath": "C:\\Visual Studio 2022\\CS101\\CS101\\12_Polymorfizm\\12_Polymorfism.csproj",
         "packagesPath": "C:\\Users\\Özcan Kara\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio 2022\\CS101\\12_Polymorfizm\\obj\\",
+        "outputPath": "C:\\Visual Studio 2022\\CS101\\CS101\\12_Polymorfizm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Özcan Kara\\AppData\\Roaming\\NuGet\\NuGet.Config",
